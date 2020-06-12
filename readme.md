@@ -13,6 +13,7 @@ youtube-download est un site web qui permet de Téléchargez des vidéo de la pl
 ```
 git clone https://github.com/Scrickers/youtube-download.git
 cd youtube-download
+npm i
 ```
 
 ### Lancement
