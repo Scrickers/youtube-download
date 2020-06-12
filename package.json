@@ -1,0 +1,17 @@
+{
+  "name": "youtube-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "node-sass -w views/src/scss/ -o views/src/css/ --recursive"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ytdl-core": "^2.1.7"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4"
+  }
+}
