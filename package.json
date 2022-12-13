@@ -7,7 +7,7 @@
     "sass": "node-sass -w views/src/scss/ -o views/src/css/ --recursive"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ytdl-core": "^2.1.7"
   },
   "devDependencies": {
